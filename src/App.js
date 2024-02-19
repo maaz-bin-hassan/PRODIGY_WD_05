@@ -73,7 +73,7 @@ function Weatherly() {
     return ( 
         <div className="App"> 
             <h1 className="app-name"> 
-                Maaz Weatherly 
+                 Weatherly 
             </h1> 
             <div className="search-bar"> 
                 <input 
